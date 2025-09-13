@@ -35,4 +35,7 @@ Users can browse a list of quotes, and tap on a quote to see its details.
 
 ## 📸 Screenshots
 
-![Quotes List](screenshots/home.jpg)![Quote Detail](screenshots/detail.jpg)
+<p align="center">
+  <img src="screenshots/home.jpg" width="250" />
+  <img src="screenshots/details.jpg" width="250" />
+</p>
