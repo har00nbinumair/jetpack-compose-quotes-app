@@ -37,5 +37,5 @@ Users can browse a list of quotes, and tap on a quote to see its details.
 
 <p align="center">
   <img src="screenshots/home.jpg" width="250" />
-  <img src="screenshots/details.jpg" width="250" />
+  <img src="screenshots/detail.jpg" width="250" />
 </p>
